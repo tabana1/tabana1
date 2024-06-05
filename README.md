@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Scripting in ansible and Red Hat OpenShift Development**
+- 🌱 I’m currently learning **  Red Hat OpenShift Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tabana1](https://github.com/tabana1)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/146UF9HILYE_E8gl9NjAcQIRGzeD84BAm/view?usp=sharing]([https://drive.google.com/file/d/146UF9HILYE_E8gl9NjAcQIRGzeD84BAm/view?usp=sharing](https://drive.google.com/file/d/108R9oSiqeFBr_FBLyGurTFx3Sv7nPWHo/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/146UF9HILYE_E8gl9NjAcQIRGzeD84BAm/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
